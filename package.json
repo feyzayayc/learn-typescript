@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch \"./**\"  --ext \"ts,json\" --exec \"ts-node src/project/basic_calculator.ts\"",
+    "start": "nodemon --watch \"./**\"  --ext \"ts,json\" --exec \"ts-node src/example/object_typing.ts\"",
     "build": "tsc"
   },
   "repository": {

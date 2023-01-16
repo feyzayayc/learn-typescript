@@ -43,4 +43,4 @@ const general = (process, numbers) => {
         return factorial(numbers);
     }
 };
-console.log(general('sum', 5));
+console.log(general('factorial', 5));
