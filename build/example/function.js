@@ -1,8 +1,8 @@
 "use strict";
+// fonksiyon çıktısı number türünde
 function test1() {
     return 23;
 }
-// fonksiyon çıktısı number türünde
 function test2() {
     return ['dadad', 45];
 }

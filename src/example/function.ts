@@ -1,7 +1,7 @@
+// fonksiyon çıktısı number türünde
 function test1(): number {
     return 23
 }
-// fonksiyon çıktısı number türünde
 
 function test2(): [string, number] {
     return ['dadad', 45]
